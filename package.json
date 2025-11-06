@@ -1,0 +1,24 @@
+{
+  "name": "sample-eslint-plugin-vue-issue-2949",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.13.1",
+  "devDependencies": {
+    "@eslint/js": "^9.39.1",
+    "@vue/tsconfig": "^0.8.1",
+    "eslint": "9.39.1",
+    "eslint-plugin-vue": "10.5.1",
+    "globals": "^16.5.0",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.46.3",
+    "vue": "3.5.22"
+  }
+}
